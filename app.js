@@ -1,4 +1,4 @@
-//constantes/////
+//constantes////
 /*primero setiamos lo mas basico para que funcione el juego*/
 const gameInfo = document.querySelector(".game-notification"); //
 const gameState = ["", "", "", "", "", "", "", "", ""];
