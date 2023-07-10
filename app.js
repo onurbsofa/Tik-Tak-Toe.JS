@@ -14,9 +14,9 @@ const winningConditions = [
   [2, 4, 6], // diagonal top right to bottom left
 ];
 
-const winningMessage = () => `Player ${currentPlayer} has won!`;
-const drawMessage = () => `Game ended in a draw!`;
-const currentPlayerTurn = () => `It's ${currentPlayer}'s turn`;
+const winningMessage = () => `El jugador ${currentPlayer} has ganado!`;
+const drawMessage = () => `El juego termino, ha sido un empate!`;
+const currentPlayerTurn = () => `Le toca a ${currentPlayer}`;
 
 ///variables////////////
 let gameActive = true;
