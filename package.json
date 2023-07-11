@@ -1,0 +1,23 @@
+{
+  "name": "tik-tak-toe.js",
+  "version": "1.0.0",
+  "description": "JavaScript vanilla game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onurbsofa/Tik-Tak-Toe.JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onurbsofa/Tik-Tak-Toe.JS/issues"
+  },
+  "homepage": "https://github.com/onurbsofa/Tik-Tak-Toe.JS#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
